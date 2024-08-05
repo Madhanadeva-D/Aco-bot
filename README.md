@@ -1,2 +1,2 @@
-# Aco-bot
-Aco Bot is an AI-powered chatbot designed to provide efficient and friendly support. It excels in answering inquiries, resolving issues, and offering information with a natural language interface. Aco Bot enhances user experiences by offering instant, personalized assistance.
+# Aco Bot
+Aco Bot is an advanced chatbot application built in Kotlin using Android Studio, designed to enhance customer support interactions. By integrating with the Brain Shop API, Aco Bot leverages powerful AI capabilities to provide intelligent, context-aware responses. The app offers a smooth and intuitive user experience, ensuring efficient handling of customer queries and concerns. With its responsive design and real-time processing, Aco Bot aims to streamline support processes and improve user satisfaction.
