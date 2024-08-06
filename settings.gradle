@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "GFG Bot"
+rootProject.name = "Aco Bot"
